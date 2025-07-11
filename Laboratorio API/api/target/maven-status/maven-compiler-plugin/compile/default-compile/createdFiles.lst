@@ -1,0 +1,4 @@
+com\api\HelloService.class
+com\api\Main.class
+com\api\RestApplication.class
+com\api\HelloResource.class

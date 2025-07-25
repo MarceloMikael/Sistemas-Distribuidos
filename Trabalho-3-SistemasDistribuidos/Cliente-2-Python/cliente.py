@@ -4,16 +4,16 @@ base_url = 'http://localhost:8080/rural'
 
 imovel = {
     "id": "202",
-    "endereco": "Br-222, 999",
-    "preco": 450000,
+    "endereco": "Uruque, S/N",
+    "preco": 500000,
     "proprietario": {
-        "nome": "Lucas Ferreira",
+        "nome": "Lourenço",
         "cpf": "11122233344"
     }
 }
 
 comprador = {
-    "nome": "Fernanda Souza",
+    "nome": "Fernandinha Lima",
     "cpf": "99988877766"
 }
 

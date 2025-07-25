@@ -1,19 +1,19 @@
 import axios from 'axios';
 
-const baseUrl = 'http://localhost:8080/residencial';
-
+// const baseUrl = 'http://localhost:8080/residencial';
+const baseUrl = 'http://172.25.164.135:8080/residencial';
 const imovel = {
-    id: '101',
-    endereco: 'Rua das Flores, 45',
-    preco: 300000,
+    id: '102',
+    endereco: 'Rua dos Santos, 42',
+    preco: 150000,
     proprietario: {
-        nome: 'Carlos Silva',
+        nome: 'João Maria',
         cpf: '12345678901'
     }
 };
 
 const comprador = {
-    nome: 'Ana Maria',
+    nome: 'Maria José',
     cpf: '98765432100'
 };
 
